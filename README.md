@@ -1,6 +1,6 @@
 # Servicio de Acortamiento de URL
 
-Este proyecto implementa un **servicio de acortamiento de URLs** utilizando **Node.js 18**, **JavaScript**, **AWS Lambda**, **API Gateway** y **DynamoDB**. Este README resume completamente la arquitectura, endpoints, datos necesarios, ejemplos y detalles para que cualquier miembro del equipo pueda continuar con los módulos restantes.
+Este proyecto implementa un **servicio de acortamiento de URLs** utilizando **Node.js 18**, **JavaScript**, **AWS Lambda**, **API Gateway** y **DynamoDB**. Este README resume completamente la arquitectura, endpoints, datos necesarios, ejemplos y detalles para que cualquier miembro del equipo pueda continuar con los módulos restantes.sss
 
 ---
 
