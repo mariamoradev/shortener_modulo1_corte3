@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Terraform
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+crash.log
+
+# Archives
+lambda.zip
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
