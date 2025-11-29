@@ -150,7 +150,7 @@ Cada URL acortada se almacena como un elemento con la siguiente estructura:
 5. Cuando un cliente consulta **GET /{code}**:
 
    - Se busca en DynamoDB usando `code` como clave
-   - Se retorna la URL original
+   - Se retorna la URL original.
 
 ---
 
